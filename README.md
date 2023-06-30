@@ -22,9 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Azure tenant needs to be created.
 - Have an active Azure subscription.
-- Resource group>Virtual Network>Subnet
-- Virtual Network (VM)
-- Subnet
+- Created Resource Group.
+- Created Virtual Network(VM).
+- Created Subnet.
 
 <h2>Installation Steps</h2>
 
