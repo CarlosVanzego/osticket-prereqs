@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="osTicket logo"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -21,19 +21,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure tenant needs to be created.
-- Have an active Azure subscription.
-- Created Resource Group.
-- Created Virtual Network(VM).
-- Created Subnet.
+- Need to have an active Microsoft Azure subscription.
+- Need to create a Resource Group within Microsoft Azure.
+- Need to create a Virtual Machine within your Microsoft Azure Resource Group.
+- Need to create a subnet.
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="<img width="1138" alt="image" src="https://github.com/CarlosVanzego/osticket-prereqs/assets/129208650/3c16d9fe-d1be-4cd2-8534-435e61e161e9">
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The first thing that needs to be done is to open Microsoft Azure via "portal.azure.com", and set up your resources.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
