@@ -32,7 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in to the Azure portal (portal.azure.com) using your Azure account credentials.
+In the Azure portal, click on "Virtual Machines" from the left-hand menu and then select "Create."
+Choose the desired configuration for your VM, including the region, size, and operating system. Select a Windows-based OS that is compatible with osTicket, such as Windows Server 2016 or Windows Server 2019.
+Configure the other settings, such as the username and password for the VM, and click on "Create" to provision the VM..
 </p>
 <br />
 
