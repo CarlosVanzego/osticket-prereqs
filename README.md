@@ -39,12 +39,11 @@ Configure the other settings, such as the username and password for the VM, and 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1437" alt="image" src="https://github.com/CarlosVanzego/osticket-prereqs/assets/129208650/70c4180c-1271-40ac-a922-be78a601be07">
 </p>
 <p>
 Once the VM is created, navigate to the "Virtual Machines" section in the Azure portal and select your newly created VM.
-Click on the "Connect" button to download the Remote Desktop Protocol (RDP) file, which allows you to connect to the VM.
-Open the RDP file and enter the username and password you specified during the VM creation process to establish a remote desktop connection to the VM.
+Copy the "Public IP Address". Open up the "Microsoft Remote Desktop" App, click "Add PC" then paste the IP Address in the "PC Name" field and click add" which allows you to connect to the VM. Open the VM file and enter the username and password you specified during the VM creation process to establish a remote desktop connection to the VM.
 </p>
 <br />
 
