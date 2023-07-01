@@ -43,7 +43,9 @@ Configure the other settings, such as the username and password for the VM, and 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the VM is created, navigate to the "Virtual Machines" section in the Azure portal and select your newly created VM.
+Click on the "Connect" button to download the Remote Desktop Protocol (RDP) file, which allows you to connect to the VM.
+Open the RDP file and enter the username and password you specified during the VM creation process to establish a remote desktop connection to the VM.
 </p>
 <br />
 
@@ -51,6 +53,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once connected to the VM, open a web browser and download the latest version of osTicket from the official website (osticket.com).
+Transfer the downloaded osTicket files to the VM by either using a file transfer protocol (FTP) client or directly through the RDP session by copying and pasting the files.
+Extract the osTicket files in a desired location on the VM, such as the default web server root folder (e.g., "C:\inetpub\wwwroot\osticket").
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open a web browser within the RDP session and enter the IP address or hostname of the VM to access osTicket.
+The osTicket installation wizard should automatically start. Follow the on-screen instructions to set up the initial configuration, including database connection details, administrator account creation, and other settings.
+Once the installation is complete, you should be able to access the osTicket help desk system by entering the VM's IP address or hostname in a web browser from any device on your network.
 </p>
 <br />
