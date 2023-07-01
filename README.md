@@ -7,7 +7,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1242" alt="image" src="https://github.com/CarlosVanzego/osticket-prereqs/assets/129208650/4aa9c2ec-1fd6-4ce3-ae78-1615a0d7c0db">
 </p>
 <p>
 Log in to the Azure portal (portal.azure.com) using your Azure account credentials.
