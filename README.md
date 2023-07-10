@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-The goal of this project was to install osTicket, an open-source ticketing system, on my computer and showcase it in my GitHub portfolio. osTicket would serve as a demonstration of my technical skills and familiarity with setting up and configuring software applications.
+The goal of this project was to install osTicket, an open-source ticketing system, on my computer and showcase it in this GitHub portfolio. osTicket would serve as a demonstration of my technical skills and familiarity with setting up and configuring software applications.
 
 
 <h2>Environments and Technologies Used</h2>
